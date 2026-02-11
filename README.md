@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Producto {
         -String nombre
@@ -17,3 +18,4 @@ classDiagram
 
     Main ..> Producto : crea
     Main ..> CalculadoraIVA : utiliza# Ejercicio_UML
+```
