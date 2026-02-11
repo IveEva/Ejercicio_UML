@@ -1,4 +1,4 @@
-```merecaid
+```mermaid
 sequenceDiagram
     participant M as Main
     participant P as Producto
