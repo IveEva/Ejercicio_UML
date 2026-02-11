@@ -1,3 +1,4 @@
+```merecaid
 sequenceDiagram
     participant M as Main
     participant P as Producto
@@ -21,3 +22,4 @@ sequenceDiagram
     deactivate C
     
     M->>Usuario: Imprime "Total con IVA: 24.2"
+```
