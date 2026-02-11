@@ -20,4 +20,4 @@ sequenceDiagram
     C-->>M: precioFinal (double)
     deactivate C
     
-    Note over M: Muestra resultado en consola
+    M->>Usuario: Imprime "Total con IVA: 24.2"
